@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+}
+
+#header {
+    margin-top: 5%;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+}
+
+#block-button {
+    margin-top: 2%;
+    text-align: center;    
+}
+button {
+    background-color: blueviolet;
+    border: blueviolet;
+    color: white;
+    padding: 0.5%;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+

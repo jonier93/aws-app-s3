@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+}
+#header {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+label{
+    position: absolute;
+    left: 40%;
+    font-size: 20px;
+}
+input {
+    position: absolute;
+    left: 50%;
+}
+img {
+    height: 150px;
+}
+button {
+    position: absolute;
+    left: 47%;
+    font-size: 20px;
+    background-color: blueviolet;
+    border: blueviolet;
+    color:white;
+    border-radius: 20px;
+    padding: 0.5%;
+    
+}
